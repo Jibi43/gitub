@@ -1,4 +1,5 @@
 package com.company;
 
-public class ElementPietra {
+public class ElementPietra implements PowierzchnioLiczone {
+    int numerPietra;
 }

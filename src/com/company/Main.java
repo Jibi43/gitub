@@ -42,7 +42,7 @@ public class Main {
         };
         Budynek mojBudynek = new Budynek(){
             powierzchniaDizalki = 20;
-            pietra = mojePiera;
+            pietra = mojePietra;
             garaze = mojeGaraze;
         };
         System.out.println(mojBudynek.PoliczPole());
