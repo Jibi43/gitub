@@ -1,4 +1,7 @@
 package com.company;
 
-public class Budynek {
+public class Budynek implements PowierzchnioLiczone {
+
+    int PowierzchniaDzialki;
+
 }

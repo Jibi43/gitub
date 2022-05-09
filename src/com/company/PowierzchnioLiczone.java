@@ -1,4 +1,6 @@
 package com.company;
 
-public interface PowierzchnioLiczone {
+interface PowierzchnioLiczone{
+    public PoliczPole
+
 }
